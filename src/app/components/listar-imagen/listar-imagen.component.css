@@ -1,0 +1,11 @@
+
+.likeviews{
+    font-weight: bold;
+    margin-bottom: -3px;
+    color: rgb(74, 74, 243);
+}
+
+
+a{
+    cursor: pointer;
+}
