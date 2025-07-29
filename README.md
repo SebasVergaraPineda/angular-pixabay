@@ -1,6 +1,8 @@
 # Pixabay
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+este proyecto fue realizado con  [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3. Puedes Verlo en mi Netlify aquí:  https://app-pixabay-by-sebastianvergara-api.netlify.app/
+Este proyecto es sencillo en el cual consumo la API de PIXABAY, el cual funciona como un buscador de imagenes, luego puedes darle clic en el botón de cada imagen para obtener una imagen en alta definición con sus respectivos Likes y views. 
+La pagina de pixabay es: https://pixabay.com/es/
 
 ## Development server
 
